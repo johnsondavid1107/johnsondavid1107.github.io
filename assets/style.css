@@ -1,16 +1,55 @@
-* {
-  
+.container {
+    margin-top: 60px;
 }
 
-.display-4 {
-    font-size: 6rem;
-}
-
-img {
-    height: 200px;
-    width: 200px;
-}
-.jumbotron {
-    background: none;
+.img-fluid{
+     margin-top: 10%;
+    margin-bottom: auto;
     
+}
+.jumbotron, h1 {
+    background: none;
+    padding: 0;
+    color: aliceblue;
+    font-family: 'Poller One', cursive;
+    text-align: center;
+    
+}
+.card {
+    margin-top: 90px;
+    width: 40%;
+}
+
+body {
+    background-color: #343840;
+}
+.container-footer {
+    
+}
+
+p {
+    color: white;
+    font-weight: bold;
+}
+span:hover {
+    color: blue;
+
+}
+
+
+.form-group {
+    color: white;
+    
+}
+form {
+    margin: 20px;
+}
+
+hr {
+    border-width: 2px;
+    border-color: white;
+}
+
+.col-md-4 {
+    text-align: center;
 }
