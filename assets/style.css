@@ -53,3 +53,19 @@ hr {
 .col-md-4 {
     text-align: center;
 }
+
+.planner, .covid {
+    width: 350px;
+    height: 350px;
+}
+
+.planner:hover,.covid:hover {
+    opacity: 20%;
+    
+}
+.planButton:hover {
+    color: cornflowerblue;
+}
+.covidButton:hover {
+    color: cornflowerblue;
+}
